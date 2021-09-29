@@ -1,0 +1,4 @@
+daleonai.com
+Kaz Sato : @kazunori279 : github 
+
+features : extrxct text from pdf/image  
